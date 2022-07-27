@@ -6,7 +6,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": "27140"
+          "Port": "8010"
         }
       ],
       "UpstreamPathTemplate": "/api/AdminLogin/AdminLogin",
@@ -19,7 +19,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": "27140"
+          "Port": "8010"
         }
       ],
       "UpstreamPathTemplate": "/api/AddBlock/AllFlightDetails",
